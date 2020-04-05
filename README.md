@@ -7,3 +7,8 @@ This is Md Masum Billah. I enjoy learning and teaching. A Computer Engineering G
 3. Operating Systems
 4. Compiler Design
 5. Introduction to Computer Studies
+# Fall 2019-2020
+1. Object Oriented Programming1(JAVA)
+2. Software Engineering
+3. Object Oriented Analysis and Design
+4. Advanced Computer Networks
