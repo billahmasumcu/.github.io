@@ -2,7 +2,10 @@
 This is Md Masum Billah. I enjoy learning and teaching. A Computer Engineering Graduate from the University of Duisburg-Essen, Germany, and undergraduate from the University of Chittagong, Bangladesh. Now working as a Lecturer at American International University-Bangladesh(AIUB), Dhaka, Bangladesh. I have the intense in research with Machine Learning, Big Data, Artificial Intelligence, especially in NLP and IoT.
 # Currently at AIUB
 # Fall 2020-2021
-1. Compiler Design
+1. Research on Tea Leaf Disease Recognition using Deep Residual Network
+2. Research on E-commerce data analysis using Machine Learning Algorithm
+3. Compiler Design
+
 # Summer 2019-2020
 1. Object Oriented Programming1 (JAVA)
 2. Object Oriented Programming2 (C#)
