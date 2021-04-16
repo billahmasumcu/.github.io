@@ -1,7 +1,8 @@
 # Md Masum Billah
 This is Md Masum Billah. I enjoy learning and teaching. A Computer Engineering Graduate from the University of Duisburg-Essen, Germany, and undergraduate from the University of Chittagong, Bangladesh. Now working as a Lecturer at American International University-Bangladesh (AIUB), Dhaka, Bangladesh. I have the intense in research with Machine Learning, Big Data, Artificial Intelligence, especially in NLP, IoT, eHealth.
 
-# Summer 2021
+# Currently at AIUB
+# Summer 2020-2021
  # Research Group
 1. Augmented Reality in Medical Education and Training for Bangladesh: A Systematic Review.
 2. Analyzing the effect of COVID-19 on mental health based on different ageing people
@@ -9,8 +10,6 @@ This is Md Masum Billah. I enjoy learning and teaching. A Computer Engineering G
 4. SEO Friendly Website Using Web Technology
 # Project 
 Web Based Application of E-Health Care system(SAAS)
-
-# Currently at AIUB
 # Spring 2020-2021
 1. Research on Develop network security using Cryptographic Algorithm.
 2. Develop a model of IoTh(Internet of Things Healthcare) based Networks including Blockchain
