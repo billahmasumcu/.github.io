@@ -3,12 +3,12 @@ This is Md Masum Billah. I enjoy learning and teaching. A Computer Engineering G
 
 # Currently at AIUB
 # Summer 2020-2021
- # Research Group
+  Research Group
 1. Augmented Reality in Medical Education and Training for Bangladesh: A Systematic Review.
 2. Analyzing the effect of COVID-19 on mental health based on different ageing people
 3. Develop a Water balance Monitoring System for Farming Land
 4. SEO Friendly Website Using Web Technology
-# Project 
+  Project 
 Web Based Application of E-Health Care system(SAAS)
 # Spring 2020-2021
 1. Research on Develop network security using Cryptographic Algorithm.
